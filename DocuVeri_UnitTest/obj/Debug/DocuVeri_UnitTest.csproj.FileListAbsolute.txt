@@ -1,0 +1,7 @@
+C:\Users\sharmabk\Documents\Visual Studio 2010\Projects\DocuVeri_TestApp\DocuVeri_UnitTest\bin\Debug\DocuVeri_UnitTest.dll
+C:\Users\sharmabk\Documents\Visual Studio 2010\Projects\DocuVeri_TestApp\DocuVeri_UnitTest\bin\Debug\DocuVeri_UnitTest.pdb
+C:\Users\sharmabk\Documents\Visual Studio 2010\Projects\DocuVeri_TestApp\DocuVeri_UnitTest\bin\Debug\DocuVeri_TestApp.exe
+C:\Users\sharmabk\Documents\Visual Studio 2010\Projects\DocuVeri_TestApp\DocuVeri_UnitTest\bin\Debug\DocuVeri_TestApp.pdb
+C:\Users\sharmabk\Documents\Visual Studio 2010\Projects\DocuVeri_TestApp\DocuVeri_UnitTest\obj\Debug\DocuVeri_UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\sharmabk\Documents\Visual Studio 2010\Projects\DocuVeri_TestApp\DocuVeri_UnitTest\obj\Debug\DocuVeri_UnitTest.dll
+C:\Users\sharmabk\Documents\Visual Studio 2010\Projects\DocuVeri_TestApp\DocuVeri_UnitTest\obj\Debug\DocuVeri_UnitTest.pdb
